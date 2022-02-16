@@ -1,12 +1,12 @@
 ![Slam](https://telegra.ph/file/5b0ae1361fd50dad69e4a.jpg)
 # Deegram
-![GitHub Repo stars](https://img.shields.io/github/stars/amin1383akh/deegram)
-![GitHub forks](https://img.shields.io/github/forks/amin1383akh/deegram)
-![GitHub issues](https://img.shields.io/github/issues/amin1383akh/deegram)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/amin1383akh/deegram)
-![GitHub contributors](https://img.shields.io/github/contributors/amin1383akh/deegram)
-![GitHub repo size](https://img.shields.io/github/repo-size/amin1383akh/deegram)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/amin1383akh/deegram)
+![GitHub Repo stars](https://img.shields.io/github/stars/breakdowns/deegram)
+![GitHub forks](https://img.shields.io/github/forks/breakdowns/deegram)
+![GitHub issues](https://img.shields.io/github/issues/breakdowns/deegram)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/breakdowns/deegram)
+![GitHub contributors](https://img.shields.io/github/contributors/breakdowns/deegram)
+![GitHub repo size](https://img.shields.io/github/repo-size/breakdowns/deegram)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/breakdowns/deegram)
 
 > Telegram Bot to download FLAC HIFI high quality music from Deezer powered by [deethon](https://github.com/deethon)
 > Watch our videos on How to deploy various useful telegram bots on heroku
